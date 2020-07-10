@@ -1,6 +1,5 @@
 import cancers
 
-＃ここから質問リスト
 age = int(input("年齢を入力してください:"))
 gender = input("性別を入力してください(m or f):")
 pregnancy = input("(女性の場合)現在妊娠していますか？(1:はい、2：いいえ)")
